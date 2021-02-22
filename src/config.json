@@ -1,0 +1,13 @@
+{
+    "file_path" : "data/Violência Doméstica, Sexual e Outras por Faixa Etária 2018.csv",
+    "names": ["muni","ano","ignorado","menosum","de1a4","de5a9","de10a14","de15a19","de20a29","de30a39","de40a49","de50a59","60mais","total"],
+    "usecols": ["muni","ignorado","menosum","de1a4","de5a9","de10a14","de15a19","de20a29","de30a39","de40a49","de50a59","60mais","total"],
+    "padrao": {
+        "fonte_nome": "DATASUS/TABNET",
+        "fonte_link": "http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinannet/cnv/violebr.def",
+        "ano": "2021",
+        "mes": "02",
+        "periodo": "2018"
+    },
+    "index": "e002_c4"
+}

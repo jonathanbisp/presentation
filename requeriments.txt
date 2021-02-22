@@ -1,0 +1,4 @@
+python 3.7
+pandas 1.2.2 python -m pip install pandas
+numpy 1.16.5 python -m pip install numpy
+Elasticsearch 7.x python -m pip install elasticsearch
